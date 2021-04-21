@@ -1,2 +1,2 @@
 # Mario-Pro
-https://aashi-boop.github.io/Mario-Pro/
+https://aashi-boop.github.io/Mario-Pro-slow/
